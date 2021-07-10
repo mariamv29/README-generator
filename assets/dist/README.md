@@ -1,10 +1,10 @@
 
 # Your Project Title
-ajkdhf
+eri 
 
 ## Description 
 
-akdjfh
+readme generator 
 
 ## Table of Contents (Optional)
 
@@ -16,11 +16,11 @@ akdjfh
 
 
 ## Installation
-kjadfh
+git intall 
 
 ## Usage 
 
-akdjfh
+follow prompt questions 
 
 
 ## License
@@ -46,4 +46,4 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
  The [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 ## GitHub Link
-akjdfh[GitHub](http://github.com)
+erihub[GitHub](http://github.com)
