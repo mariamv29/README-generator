@@ -1,10 +1,10 @@
 
 # Your Project Title
-eri 
+README-Generator 
 
 ## Description 
 
-readme generator 
+An application that generated a README.md file with node.js by answering inquirer prompt questions.
 
 ## Table of Contents (Optional)
 
@@ -16,11 +16,11 @@ readme generator
 
 
 ## Installation
-git intall 
+npm intall and npm inquirer
 
 ## Usage 
 
-follow prompt questions 
+run node index.js in your terminal, answer the prompt questions then the README will be generated 
 
 
 ## License
@@ -36,14 +36,9 @@ undefined
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-## Features
-
 
 ## Contributing
  The [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 ## GitHub Link
-erihub[GitHub](http://github.com)
+mariamv29[GitHub](http://github.com)
