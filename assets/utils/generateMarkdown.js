@@ -67,7 +67,9 @@ ${renderLicenseBadge(data.license)}
  The [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 ## GitHub Link
-${data.github}[GitHub](http://github.com)`;
+${data.github}[GitHub](http://github.com)
+
+${data.email}  `;
 }
 
 module.exports = generateMarkdown;

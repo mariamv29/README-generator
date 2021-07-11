@@ -40,5 +40,5 @@ undefined
 ## Contributing
  The [Contributor Covenant](https://www.contributor-covenant.org/) 
 
-## GitHub Link
+## Questions
 mariamv29[GitHub](http://github.com)
