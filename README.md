@@ -7,6 +7,13 @@ The README Generator is an application that allows user input to generate a READ
 After going over the prompt questions the README.md file will be generated in the dist folder inside the assets folder: "../assets/dist/README.md"
 
 
+![screenshot](./assets/video/screenrecording.gif)
+
+
+### Full movie
+[movie](https://drive.google.com/file/d/1pqzCLCOzgXH_ts1uRGSrTFFVVbnkdyak/view?usp=sharing)
+
+
 
 ## Table of Contents (Optional)
 
@@ -34,7 +41,7 @@ To use the README-Generator:
 
 
 ```md
-![alt text](assets/images/photo.jpg)
+![alt text](./assets/images/photo.jpg)
 ```
 
 

@@ -1,10 +1,10 @@
 
 # Your Project Title
-README-Generator 
+README-Generator
 
 ## Description 
 
-An application that generated a README.md file with node.js by answering inquirer prompt questions.
+A node.js application that generates an README file by simply answering a few prompt questions
 
 ## Table of Contents (Optional)
 
@@ -16,11 +16,11 @@ An application that generated a README.md file with node.js by answering inquire
 
 
 ## Installation
-npm intall and npm inquirer
+npm install, npm inquirer
 
 ## Usage 
 
-run node index.js in your terminal, answer the prompt questions then the README will be generated 
+clone repo, open vs, open terminal, run "node index.js", answer prompt questions, then README will be generated under the dist folder inside assets folder. 
 
 
 ## License
